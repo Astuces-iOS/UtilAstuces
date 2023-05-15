@@ -6,7 +6,7 @@
 
 L'application ne prend presque pas d'espace sur votre mac (7 mo) alors pourquoi pas ne pas installer l'app? 
 
-💻 Configuration requise : 
+💻 Configuration système requise : 
 
 Macos 11.5 ou ultérieur
 
