@@ -1,6 +1,7 @@
 # App Astuces
 
-<img width="64" alt="Image copie" src="https://github.com/Astuces-iOS/Astuces/assets/133143751/664cb7ae-57ac-4c97-8413-2700c8b8c3a9">
+![Image](https://github.com/Astuces-iOS/Astuces/assets/133143751/6d497509-f771-4d4b-9eaf-14040ce36a43)
+
 
 
 Découvrez l'app «Astuces» par le développeur Samuel-F. Cette app vous propose des Astuces pour vos appareils apple et plus encore...
