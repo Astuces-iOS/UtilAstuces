@@ -50,7 +50,7 @@ Une version pour macOS 11 ou 12 est également disponible mais avec moins de con
 
 # 🐛 En bêta Maintenant 🔴
 
-Nous testons la version 2.1 de l'app qui contient des changemetns importants
+Nous testons Astuces +
 
 # 📥 Envoyez un Feedback
 
