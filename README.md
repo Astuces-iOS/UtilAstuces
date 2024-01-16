@@ -1,6 +1,6 @@
 # App Astuces
 
-![Image](https://github.com/Astuces-iOS/Astuces/assets/133143751/6d497509-f771-4d4b-9eaf-14040ce36a43)
+<img width="128" alt="mac1024" src="https://github.com/Astuces-iOS/Astuces/assets/133143751/49e0f959-ea80-4809-87a6-6f3b243c0604">
 
 
 
