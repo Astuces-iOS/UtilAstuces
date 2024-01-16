@@ -4,7 +4,7 @@
 
 
 
-Découvrez l'app «Astuces» par le développeur Samuel-F. Cette app vous propose des Astuces pour vos appareils apple et plus encore...
+Découvrez l'app «Astuces» par le développeur iDéveloppa. Cette app vous propose des Astuces pour vos appareils apple et plus encore...
 
 # 📘 Fonctionnalités
 
