@@ -1,10 +1,10 @@
-# App Astuces
+# UtilAstuces
 
 <img width="128" alt="mac1024" src="https://github.com/Astuces-iOS/Astuces/assets/133143751/49e0f959-ea80-4809-87a6-6f3b243c0604">
 
+_Anciennement Astuces_ 
 
-
-Découvrez l'app «Astuces» par le développeur iDéveloppa. Cette app vous propose des Astuces pour vos appareils apple et plus encore...
+Découvrez l'app «UtilAstuces» par le développeur Astuces Dev. Cette app vous propose des Astuces pour vos appareils apple et plus encore...
 
 # 📘 Fonctionnalités
 
@@ -24,11 +24,11 @@ Découvrez l'app «Astuces» par le développeur iDéveloppa. Cette app vous pro
 
 # 💻 Configuration système requise
 
-- MacOS 13 ou ultérieur
+- MacOS 14 ou ultérieur
 
-- 180 Mo d'espace libre
+- 300 Mo d'espace libre
 
-- Lire ce tutoriel pour ouvrir l'application : https://support.apple.com/fr-ca/guide/mac-help/mh40616/mac
+- Lire ce tutoriel pour ouvrir l'application : https://support.apple.com/fr-ca/guide/mac-help/mh40616/mac (Astuces + et versions 2.2 ou antérieur seulement)
 
 # 📔 Version 1.4 
 
